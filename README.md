@@ -22,7 +22,8 @@ O projeto deve ser concluído até 23:59
 • 03/07/2023
 
 ## Dia 01 - Text Typing Animation
-![Text Typing Animation](https://github.com/jooysoouzaa/30-days-css/assets/126807536/d756ced6-8e53-4149-a401-69cdb4957ee0)
+![Vídeo sem título ‐ Feito com o Clipchamp (1)](https://github.com/jooysoouzaa/30-days-css/assets/126807536/12a3e574-a57f-4385-ba5f-73d69cb3c695)
+
 
 
 • [Código - Dia 01](https://github.com/jooysoouzaa/30-days-css/tree/main/desafios/day01)
