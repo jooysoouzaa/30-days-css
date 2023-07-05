@@ -48,7 +48,9 @@ O projeto deve ser concluído até 23:59
 
 ## Dia 03 - Card Hover Effects
 
-![desafio03_AdobeExpress](https://github.com/jooysoouzaa/30-days-css/assets/126807536/05874443-0b53-437d-89c1-08dd7dc7c8bf)
+
+![Design sem nome(1)](https://github.com/jooysoouzaa/30-days-css/assets/126807536/7a23c294-06ec-433c-9952-adba98307feb)
+
 
 • [Código - Dia 03](https://github.com/jooysoouzaa/30-days-css/tree/main/desafios/day03)
 
