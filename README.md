@@ -46,10 +46,13 @@ O projeto deve ser concluído até 23:59
 • Transform <br>
 • Animation
 
+## Dia 03 - Card Hover Effects
 
+![desafio03_AdobeExpress](https://github.com/jooysoouzaa/30-days-css/assets/126807536/05874443-0b53-437d-89c1-08dd7dc7c8bf)
 
+• [Código - Dia 03](https://github.com/jooysoouzaa/30-days-css/tree/main/desafios/day03)
 
-
-
-
-
+<strong>O que aprendi: </strong> <br> 
+• :hover <br>
+• Transform <br>
+• Transition
