@@ -33,6 +33,22 @@ O projeto deve ser concluído até 23:59
 • Keyframes <br>
 • nth-of-type()
 
+## Dia 02 - Loading Animation
+
+![Gravando_2023-07-04_123859_AdobeExpress](https://github.com/jooysoouzaa/30-days-css/assets/126807536/75ee0794-2ec6-49a6-a051-b92357deb7ad)
+
+• [Código - Dia 02](https://github.com/jooysoouzaa/30-days-css/tree/main/desafios/day02)
+
+<strong>O que aprendi: </strong> <br> 
+• ::before e ::after <br>
+• Keyframes <br>
+• :hover <br>
+• Transform <br>
+• Animation
+
+
+
+
 
 
 
