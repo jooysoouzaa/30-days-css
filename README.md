@@ -28,7 +28,7 @@ O projeto deve ser concluído até 23:59
 
 • [Código - Dia 01](https://github.com/jooysoouzaa/30-days-css/tree/main/desafios/day01)
 
-<strong>O que aprendi: </strong> <br> 
+<strong>Conceitos que aprendi e reforcei:  </strong> <br> 
 • CSS animations <br>
 • Keyframes <br>
 • nth-of-type()
@@ -39,7 +39,7 @@ O projeto deve ser concluído até 23:59
 
 • [Código - Dia 02](https://github.com/jooysoouzaa/30-days-css/tree/main/desafios/day02)
 
-<strong>O que aprendi: </strong> <br> 
+<strong>Conceitos que aprendi e reforcei:  </strong> <br> 
 • ::before e ::after <br>
 • Keyframes <br>
 • :hover <br>
@@ -54,7 +54,20 @@ O projeto deve ser concluído até 23:59
 
 • [Código - Dia 03](https://github.com/jooysoouzaa/30-days-css/tree/main/desafios/day03)
 
-<strong>O que aprendi: </strong> <br> 
+<strong>Conceitos que aprendi e reforcei:  </strong> <br> 
 • :hover <br>
 • Transform <br>
 • Transition
+
+## Dia 04 - Draw Line Around Button
+
+![Design sem nome(2)](https://github.com/jooysoouzaa/30-days-css/assets/126807536/f591ffb5-a09a-42ee-9f01-c6c83abdb647)
+
+
+• [Código - Dia 04](https://github.com/jooysoouzaa/30-days-css/tree/main/desafios/day04)
+
+<strong>Conceitos que aprendi e reforcei: </strong> <br> 
+• nth-child() <br>
+• keyframes <br>
+• Transform-origin <br>
+• Transition delay
