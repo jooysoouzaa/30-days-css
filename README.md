@@ -66,4 +66,4 @@ O projeto deve ser concluído até 23:59
 • nth-child() <br>
 • keyframes <br>
 • Transform-origin <br>
-• Transition delay
+• Transition-delay
