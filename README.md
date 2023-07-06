@@ -4,13 +4,13 @@
 
 Aceitei o desafio que inicialmente foi prosposta pela [ @MilenaCarecho.](https://github.com/MilenaCarecho/30diasDeCSS)
 
-## Objetivo
-30 dias de CSS3 é um desafio que aceitei, que visa melhorar minhas habilidades em CSS3 através da realização de minis projetos.
-
 Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não tem data de inicio fixa, cada um faz os seus 30 dias, eu ficarei honrada com sua participação 😉
 
+## Como realizo o desafio 
+Eu realizei esse projeto da seguinte forma: Procuro por tutorial de mini projetos de CSS3 no YouTube e tento reproduzir sem olhar o código, caso tenha alguma coisa que eu não consiga fazer, eu olho o tutorial e vou anotando os conceitos que não consegui aplicar.
+
 ## Regras gerais
-Realizar um projeto por dia
+Realizar um projeto por dia.
 Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS
 O projeto deve ser concluído até 23:59
 
@@ -19,8 +19,6 @@ O projeto deve ser concluído até 23:59
 
 ## Dia 01 - Text Typing Animation
 ![Vídeo sem título ‐ Feito com o Clipchamp (1)](https://github.com/jooysoouzaa/30-days-css/assets/126807536/12a3e574-a57f-4385-ba5f-73d69cb3c695)
-
-
 
 • [Código - Dia 01](https://github.com/jooysoouzaa/30-days-css/tree/main/desafios/day01)
 
