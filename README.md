@@ -14,10 +14,6 @@ Realizar um projeto por dia
 Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS
 O projeto deve ser concluído até 23:59
 
-## Referências para os projetos
-• https://www.youtube.com/@DarkCodeOnline <br>
-• https://www.youtube.com/@OnlineTutorialsYT
-
 ## Ínicio
 • 03/07/2023
 
