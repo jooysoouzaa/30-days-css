@@ -46,10 +46,15 @@ O projeto deve ser concluído até 23:59
 • Transform <br>
 • Animation
 
+## Dia 03 - Card Hover Effects
 
 
+![Design sem nome(1)](https://github.com/jooysoouzaa/30-days-css/assets/126807536/7a23c294-06ec-433c-9952-adba98307feb)
 
 
+• [Código - Dia 03](https://github.com/jooysoouzaa/30-days-css/tree/main/desafios/day03)
 
-
-
+<strong>O que aprendi: </strong> <br> 
+• :hover <br>
+• Transform <br>
+• Transition
