@@ -65,3 +65,14 @@ O projeto deve ser concluído até 23:59
 • keyframes <br>
 • Transform-origin <br>
 • Transition-delay
+
+## Dia 05 - Flip Animation
+
+![Design sem nome(5)](https://github.com/jooysoouzaa/30-days-css/assets/126807536/b8542965-cda2-4688-9e5d-040506630fbd)
+
+
+• [Código - Dia 05](https://github.com/jooysoouzaa/30-days-css/tree/main/desafios/day05)
+
+<strong>Conceitos que aprendi e reforcei: </strong> <br> 
+• Animation <br>
+• keyframes <br>
